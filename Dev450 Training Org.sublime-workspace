@@ -1,0 +1,482 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Oppor",
+				"OpportunityContactRole"
+			],
+			[
+				"Oppo",
+				"OpportunityContactRole"
+			],
+			[
+				"Opportn",
+				"opportunity"
+			],
+			[
+				"is",
+				"PUBLIC isEmpty(String str) \tBoolean"
+			],
+			[
+				"valu",
+				"PUBLIC valueOf(String str) \tDouble"
+			],
+			[
+				"isOper",
+				"isOperand"
+			],
+			[
+				"equals",
+				"PUBLIC equals(String other) \tBoolean"
+			],
+			[
+				"equal",
+				"equalsIgnoreCase"
+			],
+			[
+				"Error",
+				"ErrorException"
+			],
+			[
+				"spli",
+				"splitStr"
+			],
+			[
+				"equa",
+				"PUBLIC equals(String other) \tBoolean"
+			],
+			[
+				"for",
+				"formmatedExp"
+			],
+			[
+				"pre",
+				"previous1"
+			],
+			[
+				"previo",
+				"previous1"
+			],
+			[
+				"lead",
+				"leadEmailsMap"
+			],
+			[
+				"let",
+				"leadFirstNameToFirstLetterMap"
+			],
+			[
+				"email",
+				"emailToContactListMap"
+			],
+			[
+				"conta",
+				"contactsWithSameEmailLeads"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"Acc",
+				"accIdToMultiSelectPicklistList"
+			],
+			[
+				"acc",
+				"accIdToMultiSelectPicklistList"
+			],
+			[
+				"child",
+				"childCaseSubject"
+			],
+			[
+				"sen",
+				"sensativeDataFound"
+			],
+			[
+				"hig",
+				"highestPrice"
+			],
+			[
+				"hi",
+				"hightestCompetitor"
+			],
+			[
+				"comp",
+				"competitorName"
+			],
+			[
+				"high",
+				"hightestCompetitor"
+			],
+			[
+				"lowes",
+				"lowestCompetitor"
+			],
+			[
+				"SSDS",
+				"SSDStorage"
+			],
+			[
+				"dua",
+				"DualCore"
+			],
+			[
+				"LCD",
+				"LCDMonitor"
+			],
+			[
+				"HDD",
+				"HDDStorage"
+			],
+			[
+				"class",
+				"classType"
+			],
+			[
+				"getS",
+				"PUBLIC getStatus() \tString"
+			],
+			[
+				"getStatus",
+				"PUBLIC getStatusCode() \tInteger"
+			],
+			[
+				"getSTat",
+				"PUBLIC getStatusCode() \tInteger"
+			],
+			[
+				"account",
+				"accountIdToContactList"
+			],
+			[
+				"accou",
+				"accountIdToContactList"
+			],
+			[
+				"new",
+				"newContactList"
+			],
+			[
+				"old",
+				"oldAccountMap"
+			],
+			[
+				"pageBlo",
+				"apex:pageBlock"
+			],
+			[
+				"pageblo",
+				"apex:pageBlockTable"
+			],
+			[
+				"co",
+				"collapsible\t(Boolean)"
+			],
+			[
+				"col",
+				"columns\t(Integer)"
+			],
+			[
+				"testL",
+				"testLeadsBeforeSchedule"
+			],
+			[
+				"testlead",
+				"testLeadsBeforeSchedule"
+			],
+			[
+				"Dail",
+				"DailyLeadProcessor\t[Custom Apex Class]"
+			],
+			[
+				"s",
+				"schedule(String_jobname, String_cronexpression, Object_schedulable_class)"
+			],
+			[
+				"inser",
+				"insertTestAccounts"
+			],
+			[
+				"asser",
+				"assertEquals()"
+			],
+			[
+				"get",
+				"PUBLIC get(ANY key) \tString"
+			],
+			[
+				"d",
+				"PUBLIC deserializeStrict(String jsonString, system.Type apexType) \tObject"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insal",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/SinanBunni/Documents/Dev450 Training Org",
+		"/Users/SinanBunni/Documents/Dev450 Training Org/src"
+	],
+	"file_history":
+	[
+		"/Users/SinanBunni/Documents/Dev450 Training Org/src/package.xml",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/BooleanExpressionEvaluation.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Stack.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Parser.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/InfixValidation.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Node.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/CloseCaseMoreContacts.trigger",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/FuzzyLeadDedupesTrigger.trigger",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/LeadDedupesTrigger.trigger",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/LeadingCompetitor.trigger",
+		"/Users/SinanBunni/Downloads/package.xml",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/ValueCountMultiSelectPicklist.trigger",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/triggers/SensativeDataCaseDetection.trigger",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/AbstractFactory.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/CallCentre_AdminSupport.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/CallCentre_AdminSupportFactory.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/debug/logs/2016-11-13 22-52-47.log",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/CallCentre_AdminPremiumSupport.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/CallCentre_AdminGoldSupport.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/CallCentre_AdminBasicSupport.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/YellowCoin.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/BlueCoin.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/GameCoin.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Level_Underwater.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/GameLevel.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Level_Underground.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Mario_Run.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/Mario.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/AnimalCallouts.cls",
+		"/Users/SinanBunni/Documents/ArchitectTrial/src/classes/AnimalCalloutsTest.cls",
+		"/Users/SinanBunni/Desktop/image008.emz",
+		"/Users/SinanBunni/Downloads/JSON2Apex/JSON2Apex.apxc",
+		"/Users/SinanBunni/Library/Containers/com.olivetree.BibleReaderMac/Data/Documents/libraries/common/16554_otPub/OEBPS/Section43.xhtml",
+		"/Users/SinanBunni/Downloads/report_13c7dc64c38c4ed2bb7af2e524834026.xml",
+		"/Users/SinanBunni/Downloads/tryaudio.html",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/SinanBunni/Downloads/DEV501_LabFiles/DEV521_VisualforceControllers_LabFiles/Exercises/1-1.OfferPDFPage.txt",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/Java.sublime-settings",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/Default ().sublime-keymap",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/SinanBunni/Downloads/src/triggers/OnOpportunity2.trigger",
+		"/Users/SinanBunni/Downloads/src/classes/TestBulkPatterns.cls",
+		"/Users/SinanBunni/Downloads/src/classes/BulkPatternBatch.cls",
+		"/Users/SinanBunni/Downloads/src/classes/ThinkingInApexBulkPatterns.cls",
+		"/Users/SinanBunni/Downloads/src/objects/DebugInfo__c.object",
+		"/Users/SinanBunni/Downloads/src/classes/TestThinkingInApex.cls",
+		"/Users/SinanBunni/Downloads/src/classes/Benchmarking.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/outputcomponents.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/OlderAccountsUtility.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/ContactView.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/AccountSummary.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/UsingVariables.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/DisplayUserInfo.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/FirstPage.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/ContactAndLeadSearch.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/DailyLeadProcessorTest.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/DailyLeadProcessor.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/AddPrimaryContactTest.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/AddPrimaryContact.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/LeadProcessorTest.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/LeadProcessor.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/AccountProcessorTest.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/AccountProcessor.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/triggers/AddRelatedRecord.trigger",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/InvoiceWrapper.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/classes/JSONDeserializeInvoiceWrapper.cls",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/pages/InvoiceWrapperVF.page",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/triggers/AccountDeletion.trigger",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/Users/SinanBunni/Library/Application Support/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/salesforcedevelopment@icloud.com.dev (Development Playground).sublime-settings",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/salesforcedevelopment@icloud.com.dev (Development Playground)/src/triggers/MyCoolTrigger.trigger",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/sinan@studygroup.com.full (Full Sandbox)/src/triggers/AgentAddressTrigger.trigger-meta.xml",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/sinan@studygroup.com.full (Full Sandbox)/src/triggers/CaseTrigger.trigger-meta.xml",
+		"/Users/SinanBunni/Documents/MavensMate Workspace/sinan@studygroup.com.full (Full Sandbox)/src/triggers/CaseTrigger.trigger"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"substring(0",
+			"substring(0)",
+			"Case",
+			"Set<",
+			"(Set",
+			"(Set<",
+			"(List<",
+			"(Set<",
+			"default",
+			"default_new",
+			"default"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Dev450 Training Org.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 371.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
