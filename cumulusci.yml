@@ -1,0 +1,5 @@
+project:
+    name: dev450
+    package:
+        name: dev450
+        namespace: dev450
